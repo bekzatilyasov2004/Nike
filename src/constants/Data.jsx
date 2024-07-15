@@ -1,0 +1,42 @@
+export const Data = [
+  {
+    id: 1,
+    name: "Nike Air Zoom Pegasus",
+    category: "Running Shoes",
+    url: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/0558cdb5-4d42-4f4d-9b37-5038f1f97f9f/pegasus-41-mens-road-running-shoes-8dkpXd.png",
+    price: 120.0,
+    stock: 50,
+  },
+  {
+    id: 2,
+    name: "Nike Air Max 270",
+    category: "Lifestyle Shoes",
+    url: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/88aed2f8-1452-4868-9d24-8391c1d9f628/air-max-270-womens-shoes-cvhL7h.png",
+    price: 150.0,
+    stock: 30,
+  },
+  {
+    id: 3,
+    name: "Nike React Infinity Run",
+    category: "Running Shoes",
+    url: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/8e64048f-7aa5-40a3-b236-e15cb8f61cd2/infinityrn-4-blueprint-womens-road-running-shoes-8rTnWj.png",
+    price: 160.0,
+    stock: 45,
+  },
+  {
+    id: 4,
+    name: "Nike ZoomX Vaporfly",
+    category: "Running Shoes",
+    url: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/1dab2f7a-bbee-4c23-b899-8e24a356763d/vaporfly-3-mens-road-racing-shoes-wJGsLb.png",
+    price: 250.0,
+    stock: 20,
+  },
+  {
+    id: 5,
+    name: "Nike Metcon 6",
+    category: "Training Shoes",
+    url: "https://static.nike.com/a/images/t_PDP_1728_v1/f_auto,q_auto:eco/d55c897c-3ddc-463c-a843-ba506e863c50/free-metcon-6-mens-workout-shoes-SQbRN7.png",
+    price: 130.0,
+    stock: 35,
+  },
+];
